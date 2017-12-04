@@ -8,3 +8,5 @@
 3、[彻头彻尾理解 LinkedHashMap](http://blog.csdn.net/justloveyou_/article/details/71713781)
 
 4、[Android Recovery升级原理](http://blog.csdn.net/luzhenrong45/article/details/60968458)
+
+5、[深入理解Binder机制](https://github.com/luojiawei/Notes/blob/master/Android/深入理解Binder机制.md)
