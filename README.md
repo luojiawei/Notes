@@ -14,3 +14,5 @@
 6、[Android应用程序安装过程源代码分析](https://github.com/luojiawei/Notes/blob/master/Android/Android应用程序安装过程源代码分析.md)
 
 7、[强引用、软引用、弱引用、虚引用的概念](https://github.com/luojiawei/Notes/blob/master/Android/强引用、软引用、弱引用、虚引用的概念.md)
+
+8、[Java语言与C语言混合编程](https://github.com/luojiawei/Notes/blob/master/Android/Java语言与C语言混合编程念.md)
