@@ -18,3 +18,5 @@
 8、[Java语言与C语言混合编程](https://github.com/luojiawei/Notes/blob/master/Android/Java语言与C语言混合编程念.md)
 
 9、[HTTP与HTTPS的区别及HTTPS详解](https://github.com/luojiawei/Notes/blob/master/Android/HTTP与HTTPS的区别及HTTPS详解.md)
+
+10、[Camera时序图](https://github.com/luojiawei/Notes/blob/master/Android/Camera时序图.md)
