@@ -28,3 +28,5 @@
 2.11 [LeakCanary: 让内存泄露无所遁形](https://github.com/luojiawei/Notes/blob/master/Android/LeakCanary.md)
 
 2.12 [View自定义](https://github.com/luojiawei/Notes/blob/master/Android/View自定义.md)
+
+2.13 [Android设计模式](https://github.com/luojiawei/Notes/blob/master/Android/设计模式.md)
