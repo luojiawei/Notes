@@ -21,7 +21,7 @@
 
 2.7 [强引用、软引用、弱引用、虚引用的概念](https://github.com/luojiawei/Notes/blob/master/Android/强引用、软引用、弱引用、虚引用的概念.md)
 
-2.8 [Java语言与C语言混合编程](https://github.com/luojiawei/Notes/blob/master/Android/Java语言与C语言混合编程念.md)
+2.8 [Java语言与C语言混合编程](https://github.com/luojiawei/Notes/blob/master/Android/Java语言与C语言混合编程.md)
 
 2.9 [HTTP与HTTPS的区别及HTTPS详解](https://github.com/luojiawei/Notes/blob/master/Android/HTTP与HTTPS的区别及HTTPS详解.md)
 
