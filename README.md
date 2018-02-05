@@ -6,6 +6,8 @@
 
 1.2 Java内存区域与垃圾回收器。（参考《深入理解Java虚拟机 JVM高级特性与最佳实践》）
 
+1.1 [【Java 并发】详解 ThreadLocal](https://www.cnblogs.com/zhangjk1993/archive/2017/03/29/6641745.html)
+
 ## 二、Android知识
 2.1 [Android 事件分发机制](https://github.com/luojiawei/Notes/blob/master/Android/Android%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6.md)
 
