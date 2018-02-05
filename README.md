@@ -34,3 +34,5 @@
 2.12 [View自定义](https://github.com/luojiawei/Notes/blob/master/Android/View自定义.md)
 
 2.13 [Android设计模式](https://github.com/luojiawei/Notes/blob/master/Android/设计模式.md)
+
+2.14 [Android性能优化](https://github.com/hadyang/interview/blob/master/android/optimize.md)
