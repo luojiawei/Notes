@@ -15,7 +15,7 @@
 
 2.3 [彻头彻尾理解 LinkedHashMap](http://blog.csdn.net/justloveyou_/article/details/71713781)
     
-    [[Java基础要义]HashMap、LinkedHashMap元素遍历机制探讨](http://blog.csdn.net/luanlouis/article/details/43017071)
+2.3.1   [HashMap、LinkedHashMap元素遍历机制探讨](http://blog.csdn.net/luanlouis/article/details/43017071)
 
 2.4 [Android Recovery升级原理](http://blog.csdn.net/luzhenrong45/article/details/60968458)
 
