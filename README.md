@@ -4,18 +4,12 @@
 
 1.1 [深入理解Java的接口和抽象类](https://www.cnblogs.com/dolphin0520/p/3811437.html)
 
-1.2 Java内存区域与垃圾回收器。（参考《深入理解Java虚拟机 JVM高级特性与最佳实践》）
-
-1.1 [【Java 并发】详解 ThreadLocal](https://www.cnblogs.com/zhangjk1993/archive/2017/03/29/6641745.html)
-
 ## 二、Android知识
 2.1 [Android 事件分发机制](https://github.com/luojiawei/Notes/blob/master/Android/Android%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6.md)
 
 2.2 [彻头彻尾理解 HashMap](http://blog.csdn.net/justloveyou_/article/details/62893086)
 
 2.3 [彻头彻尾理解 LinkedHashMap](http://blog.csdn.net/justloveyou_/article/details/71713781)
-    
-2.3.1   [HashMap、LinkedHashMap元素遍历机制探讨](http://blog.csdn.net/luanlouis/article/details/43017071)
 
 2.4 [Android Recovery升级原理](http://blog.csdn.net/luzhenrong45/article/details/60968458)
 
@@ -37,4 +31,4 @@
 
 2.13 [Android设计模式](https://github.com/luojiawei/Notes/blob/master/Android/设计模式.md)
 
-2.14 [Android性能优化](https://github.com/hadyang/interview/blob/master/android/optimize.md)
+2.14 [Android编译系统](https://github.com/luojiawei/Notes/blob/master/Android/Android编译系统.md)
