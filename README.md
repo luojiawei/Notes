@@ -32,3 +32,5 @@
 2.13 [Android设计模式](https://github.com/luojiawei/Notes/blob/master/Android/设计模式.md)
 
 2.14 [Android编译系统](https://github.com/luojiawei/Notes/blob/master/Android/Android编译系统.md)
+
+2.15 [深入理解MediaScanner](https://blog.csdn.net/innost/article/details/47208711)
